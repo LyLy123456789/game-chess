@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Game-Chess-master/src/image/open.png</file>
+            <file>file:/E:/Game-Chess-master/src/image/new.png</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/nameFile.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/undo.png</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/Queen.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/White_Queen.png</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/Crown.java</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/Pawn.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/Home.png</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/BoardChess.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/redo.jpg</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/Bishop.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/Client.java</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/Rook.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/Connect.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/History.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/White_Bishop.png</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/PlayOnline.java</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/Coordinate.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/ProcessAI.java</file>
+            <file>file:/E:/Game-Chess-master/src/Server/ServerThread.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/saveas.png</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/EmptyCell.java</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/Piece.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/save.png</file>
+            <file>file:/E:/Game-Chess-master/src/AI/PieceGo.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/MAIN.jpg</file>
+            <file>file:/E:/Game-Chess-master/src/Server/Server.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/Mode.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/ListGameSave.java</file>
+            <file>file:/E:/Game-Chess-master/src/image/White_Knight.png</file>
+            <file>file:/E:/Game-Chess-master/src/image/White_Rook.png</file>
+            <file>file:/E:/Game-Chess-master/src/Message/Request.java</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/King.java</file>
+            <file>file:/E:/Game-Chess-master/src/Piece/Knight.java</file>
+            <file>file:/E:/Game-Chess-master/src/AI/AI.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/Main.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/ChessAndCoordinare.java</file>
+            <file>file:/E:/Game-Chess-master/src/gamechess/TheardAI.java</file>
+        </group>
+    </open-files>
+</project-private>
